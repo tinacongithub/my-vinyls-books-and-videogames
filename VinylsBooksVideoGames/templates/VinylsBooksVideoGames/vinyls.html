@@ -1,0 +1,9 @@
+{% extends 'VinylsBooksVideoGames/base.html' %}
+{% block titulo%} Vinyls'list {% endblock %}
+{% block contenido %}
+  {% for vinyl in vinyls_list %}
+      <ul>
+          <li> Title: {{vinyl.title}}, Artist: {{vinyl.artist}}, Number of tracks: {{vinyl.tracks}}</li>
+      </ul>
+  {% endfor %}
+{% endblock %}

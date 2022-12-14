@@ -1,0 +1,9 @@
+{% extends 'VinylsBooksVideoGames/base.html' %}
+{% block titulo%} Videogames'list {% endblock %}
+{% block contenido %}
+  {% for videogame in videogames_list %}
+      <ul>
+          <li> Title: {{videogame.title}}, Genre: {{videogame.genre}}, Year Released: {{videogame.year_released}}</li>
+      </ul>
+  {% endfor %}
+{% endblock %}
