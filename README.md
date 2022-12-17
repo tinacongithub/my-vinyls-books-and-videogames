@@ -1,6 +1,6 @@
-# my-vinyls-books-videogames
+# my-books-inventory
 
-This app helps you keep your vinyls, books and videogames' inventory up to date. You can searh and add items to your vinyls, books or videogames inventory.
+This app helps you keep your books' inventory up to date. You can searh and add items to your inventory.
 
 To install it, you need to:
 
