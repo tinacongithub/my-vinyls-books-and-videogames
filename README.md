@@ -1,6 +1,8 @@
-# my-books-inventory
+# my-vinyls-books-and-videogames
 
-This app helps you keep your books' inventory up to date. You can searh and add items to your inventory.
+Entreda intermedia proyecto final CoderHouse
+
+This app helps you keep your vinyls, books and videogames' inventory up to date. You can searh and add items to your inventory.
 
 To install it, you need to:
 
